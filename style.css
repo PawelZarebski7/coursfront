@@ -6,3 +6,7 @@ p {
     color: chocolate;
     font-size: 12px;
 }
+
+hr {
+    color: cyan;
+}
